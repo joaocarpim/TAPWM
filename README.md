@@ -4,7 +4,7 @@ Descrição breve do projeto.
 
 ## Imagem do Projeto
 
-![Descrição da Imagem](imagem.png)
+![Descrição da Imagem](imagen.png)
 
 
 # TAPWM
