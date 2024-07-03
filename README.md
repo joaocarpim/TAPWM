@@ -1,12 +1,3 @@
-# Título do Projeto
-
-Descrição breve do projeto.
-
-## Imagem do Projeto
-
-![Imagem](imagen.PNG)
-
-
 # TAPWM
 # Repositório de Projetos Acadêmicos
 
@@ -31,51 +22,51 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 1. **ATV2**: Pesquisa acadêmica na internet sobre o tema de Inteligência Artificial, abordando os principais conceitos, avanços e aplicações.
 2. **ATV3**: Mini projeto de uma landing page que apresenta o conteúdo da pesquisa de Inteligência Artificial, utilizando HTML, CSS e JavaScript para uma apresentação interativa e informativa.
    <details>
-   <summary>📸 Screenshot do projeto</summary>
+   <summary>📸</summary>
    
-   ![imagem](imagen.PNG)
+   ![imagem](Atv3.PNG)
    
    </details>
 
 3. **ATV6**: Introdução ao aprendizado em JavaScript com dois exemplos práticos que demonstram a aplicação da linguagem.
 <details>
-  <summary>📸 Screenshot do projeto</summary>
+  <summary>📸</summary>
   
-  ![Screenshot do Projeto ATV6a](screenshotAtv6a.PNG)
-  ![Screenshot do Projeto ATV6b](screenshotAtv6b.PNG)
+  ![Screenshot do Projeto ATV6a](Atv6a.PNG)
+  ![Screenshot do Projeto ATV6b](Atv6b.PNG)
 
 </details>
 
 4. **ATV7**: Jogo de Pedra, Papel e Tesoura implementado em JavaScript, onde o usuário pode jogar contra a máquina.
 <details>
-  <summary>📸 Screenshot do projeto</summary>
+  <summary>📸 </summary>
   
-  ![Screenshot do Projeto ATV7a](screenshotAtv7a.PNG)
-  ![Screenshot do Projeto ATV7b](screenshotAtv7b.PNG)
+  ![Screenshot do Projeto ATV7a](Atv7a.PNG)
+  ![Screenshot do Projeto ATV7b](Atv7b.PNG)
 
 </details>
 
 5. **ATV8**: Formulário de pesquisa para coletar opiniões, idades e contabilizar o total de homens e mulheres participantes.
 <details>
-  <summary>📸 Screenshot do projeto</summary>
+  <summary>📸</summary>
   
-  ![Screenshot do Projeto ATV8](screenshotAtv8.PNG)
+  ![Screenshot do Projeto ATV8](Atv8.PNG)
 
 </details>
 
 6. **ATV9**: Calculadora de IMC (Índice de Massa Corporal) que permite ao usuário inserir altura e peso para calcular e exibir o resultado.
 <details>
-  <summary>📸 Screenshot do projeto</summary>
+  <summary>📸</summary>
   
-  ![Screenshot do Projeto ATV9](screenshotAtv9.PNG)
+  ![Screenshot do Projeto ATV9](Atv9.PNG)
 
 </details>
 
 7. **ATV10**: Aplicação que solicita o tamanho dos lados de um triângulo e classifica-o como isósceles, escaleno ou equilátero.
 <details>
-  <summary>📸 Screenshot do projeto</summary>
+  <summary>📸</summary>
   
-  ![Screenshot do Projeto ATV10](screenshotAtv10.PNG)
+  ![Screenshot do Projeto ATV10](Atv10.PNG)
 
 </details>
 
@@ -83,9 +74,9 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 
 1. **ATV4**: Início de um projeto utilizando a abordagem de programação baseada em classes (Pclasse), com o objetivo de entender a estrutura e a utilização de classes e objetos em C#.
 <details>
-  <summary>📸 Screenshot do projeto</summary>
+  <summary>📸</summary>
   
-  ![Screenshot do Projeto ATV4](screenshotAtv4.PNG)
+  ![Screenshot do Projeto ATV4](Atv4.PNG)
 
 </details>
 
@@ -93,9 +84,9 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 
 
 <details>
-  <summary>📸 Screenshot do projeto</summary>
+  <summary>📸</summary>
   
-  ![Screenshot do Projeto ATV5](screenshotAtv5.PNG)
+  ![Screenshot do Projeto ATV5](Atv5.PNG)
 
 </details>
 
