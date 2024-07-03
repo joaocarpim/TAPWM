@@ -4,7 +4,7 @@ Descrição breve do projeto.
 
 ## Imagem do Projeto
 
-![Descrição da Imagem](imagen.png)
+![Imagem](imagen.PNG)
 
 
 # TAPWM
@@ -33,7 +33,7 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
    <details>
    <summary>📸 Screenshot do projeto</summary>
    
-   ![Screenshot do Projeto ATV3](screenshotAtv3.PNG)
+   ![imagem](imagen.PNG)
    
    </details>
 
@@ -41,8 +41,8 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 <details>
   <summary>📸 Screenshot do projeto</summary>
   
-  ![Screenshot do Projeto ATV6a](screenshotAtv6a.png)
-  ![Screenshot do Projeto ATV6b](screenshotAtv6b.png)
+  ![Screenshot do Projeto ATV6a](screenshotAtv6a.PNG)
+  ![Screenshot do Projeto ATV6b](screenshotAtv6b.PNG)
 
 </details>
 
@@ -50,8 +50,8 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 <details>
   <summary>📸 Screenshot do projeto</summary>
   
-  ![Screenshot do Projeto ATV7a](screenshotAtv7a.png)
-  ![Screenshot do Projeto ATV7b](screenshotAtv7b.png)
+  ![Screenshot do Projeto ATV7a](screenshotAtv7a.PNG)
+  ![Screenshot do Projeto ATV7b](screenshotAtv7b.PNG)
 
 </details>
 
@@ -59,7 +59,7 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 <details>
   <summary>📸 Screenshot do projeto</summary>
   
-  ![Screenshot do Projeto ATV8](screenshotAtv8.png)
+  ![Screenshot do Projeto ATV8](screenshotAtv8.PNG)
 
 </details>
 
@@ -67,7 +67,7 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 <details>
   <summary>📸 Screenshot do projeto</summary>
   
-  ![Screenshot do Projeto ATV9](screenshotAtv9.png)
+  ![Screenshot do Projeto ATV9](screenshotAtv9.PNG)
 
 </details>
 
@@ -75,7 +75,7 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 <details>
   <summary>📸 Screenshot do projeto</summary>
   
-  ![Screenshot do Projeto ATV10](screenshotAtv10.png)
+  ![Screenshot do Projeto ATV10](screenshotAtv10.PNG)
 
 </details>
 
@@ -85,7 +85,7 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 <details>
   <summary>📸 Screenshot do projeto</summary>
   
-  ![Screenshot do Projeto ATV4](screenshotAtv4.png)
+  ![Screenshot do Projeto ATV4](screenshotAtv4.PNG)
 
 </details>
 
@@ -95,7 +95,7 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 <details>
   <summary>📸 Screenshot do projeto</summary>
   
-  ![Screenshot do Projeto ATV5](screenshotAtv5.png)
+  ![Screenshot do Projeto ATV5](screenshotAtv5.PNG)
 
 </details>
 
