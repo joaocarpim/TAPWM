@@ -21,11 +21,11 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
 
 1. **ATV2**: Pesquisa acadêmica na internet sobre o tema de Inteligência Artificial, abordando os principais conceitos, avanços e aplicações.
 2. **ATV3**: Mini projeto de uma landing page que apresenta o conteúdo da pesquisa de Inteligência Artificial, utilizando HTML, CSS e JavaScript para uma apresentação interativa e informativa.
-3. **ATV6**: Inicio ao aprendizado em Js com dois exemplos aplicaveis da linguagem.
-4. **ATV7**: Descrição breve do projeto 2.
-5. **ATV8**: Descrição breve do projeto 2.
-6. **ATV9**: Descrição breve do projeto 1.
-7. **ATV10**: Descrição breve do projeto 1.
+3. **ATV6**: Introdução ao aprendizado em JavaScript com dois exemplos práticos que demonstram a aplicação da linguagem.
+4. **ATV7**: Jogo de Pedra, Papel e Tesoura implementado em JavaScript, onde o usuário pode jogar contra a máquina.
+5. **ATV8**: Formulário de pesquisa para coletar opiniões, idades e contabilizar o total de homens e mulheres participantes.
+6. **ATV9**: Calculadora de IMC (Índice de Massa Corporal) que permite ao usuário inserir altura e peso para calcular e exibir o resultado.
+7. **ATV10**: Aplicação que solicita o tamanho dos lados de um triângulo e classifica-o como isósceles, escaleno ou equilátero.
 
 ### C#
 
