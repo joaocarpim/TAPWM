@@ -104,7 +104,7 @@ Se você deseja contribuir para este repositório, siga os passos abaixo:
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License](LICENSE.txt).
 
 ---
 
