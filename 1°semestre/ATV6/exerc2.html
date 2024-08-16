@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operações Matemáticas</title>
+    <style>
+        body {
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 50px;
+            
+        }
+
+        .box-container {
+            margin-top: 50px;
+        }
+
+        .box {
+            width: 150px;
+            height: 50px;
+            background-color: rgb(91, 169, 196);
+            margin: 20px;
+            display: inline-block;
+            text-align: center;
+            line-height: 50px;
+            cursor: pointer;
+            border-radius: 10px;
+            text-decoration: none;
+
+        }
+
+        .box a {
+            text-decoration: none;
+            color: black;
+            
+        }
+    </style>
+    <script>
+        function realizarOperacoes() {
+            // Obter os valores dos campos de entrada
+            var numero1 = parseFloat(document.getElementById("numero1").value);
+            var numero2 = parseFloat(document.getElementById("numero2").value);
+
+            // Calcular as operações
+            var soma = numero1 + numero2;
+            var subtracao = numero1 - numero2;
+            var produto = numero1 * numero2;
+            var divisao = numero1 / numero2;
+            var resto = numero1 % numero2;
+
+            // Mostrar os resultados na página
+            
+            document.getElementById("resultado-soma").innerHTML = "Soma: " + soma;
+            document.getElementById("resultado-subtracao").innerHTML = "Subtração: " + subtracao;
+            document.getElementById("resultado-produto").innerHTML = "Produto: " + produto;
+            document.getElementById("resultado-divisao").innerHTML = "Divisão: " + divisao;
+            document.getElementById("resultado-resto").innerHTML = "Resto: " + resto;
+
+            
+        }
+
+
+    </script>
+</head>
+<body>
+    <h2>Operações Matemáticas</h2>
+    <label for="numero1">Número 1:</label>
+    <input type="number" id="numero1"><br><br>
+    <label for="numero2">Número 2:</label>
+    <input type="number" id="numero2"><br><br>
+    <button class="box" onclick="realizarOperacoes()">RealizarOperações</button><br><br>
+    <div id="resultado-soma"></div>
+    <div id="resultado-subtracao"></div>
+    <div id="resultado-produto"></div>
+    <div id="resultado-divisao"></div>
+    <div id="resultado-resto"></div>
+
+    <a class="box" href="./intex.html">Voltar</a>
+
+</body>
+</html>
