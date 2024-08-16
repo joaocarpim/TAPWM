@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercícios com Arrays e Strings</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+
+    <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md mb-8">
+        <h2 class="text-xl font-bold mb-4 text-center">Exercício 1: Soma e Quadrado</h2>
+        <div class="mb-4">
+            <label for="numero1" class="block text-gray-700 font-semibold">Número 1:</label>
+            <input type="number" id="numero1" class="w-full px-3 py-2 border border-gray-300 rounded-lg">
+        </div>
+        <div class="mb-4">
+            <label for="numero2" class="block text-gray-700 font-semibold">Número 2:</label>
+            <input type="number" id="numero2" class="w-full px-3 py-2 border border-gray-300 rounded-lg">
+        </div>
+        <div class="mb-4">
+            <label for="numero3" class="block text-gray-700 font-semibold">Número 3:</label>
+            <input type="number" id="numero3" class="w-full px-3 py-2 border border-gray-300 rounded-lg">
+        </div>
+        <button onclick="calcular()" class="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg transition duration-300">Calcular</button>
+        <div class="result mt-4 text-gray-800 font-medium" id="resultadoEx1"></div>
+    </div>
+
+    <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
+        <h2 class="text-xl font-bold mb-4 text-center">Exercício 2: Verificação de Subconjunto</h2>
+        <p class="text-sm text-gray-600 mb-4 text-center">*obs: Escreva a palavra completa na Palavra 1 e verifique se é um subconjunto na Palavra 2</p>
+        <div class="mb-4">
+            <label for="palavra1" class="block text-gray-700 font-semibold">Palavra 1:</label>
+            <input type="text" id="palavra1" class="w-full px-3 py-2 border border-gray-300 rounded-lg">
+        </div>
+        <div class="mb-4">
+            <label for="palavra2" class="block text-gray-700 font-semibold">Palavra 2:</label>
+            <input type="text" id="palavra2" class="w-full px-3 py-2 border border-gray-300 rounded-lg">
+        </div>
+        <button onclick="verificarSubconjunto()" class="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg transition duration-300">Verificar</button>
+        <div class="result mt-4 text-gray-800 font-medium" id="resultadoEx2"></div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

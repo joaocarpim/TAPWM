@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funções JavaScript com Entrada do Usuário</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
+        <h1 class="text-2xl font-bold mb-6 text-center">Escolha os Números</h1>
+        <form id="formulario" class="space-y-4">
+            <div>
+                <label for="num1" class="block text-gray-700 font-semibold">Número 1:</label>
+                <input type="number" id="num1" step="any" required class="w-full px-3 py-2 border border-gray-300 rounded-lg">
+            </div>
+            <div>
+                <label for="num2" class="block text-gray-700 font-semibold">Número 2:</label>
+                <input type="number" id="num2" step="any" required class="w-full px-3 py-2 border border-gray-300 rounded-lg">
+            </div>
+            <div>
+                <label for="num3" class="block text-gray-700 font-semibold">Número 3:</label>
+                <input type="number" id="num3" step="any" required class="w-full px-3 py-2 border border-gray-300 rounded-lg">
+            </div>
+            <div>
+                <label for="num4" class="block text-gray-700 font-semibold">Número 4:</label>
+                <input type="number" id="num4" step="any" required class="w-full px-3 py-2 border border-gray-300 rounded-lg">
+            </div>
+            <button type="button" onclick="processarFormulario()" class="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg transition duration-300">Calcular</button>
+        </form>
+
+        <div class="mt-6">
+            <h2 class="text-xl font-semibold mb-2">Resultados:</h2>
+            <p id="resultadoMaiorIf" class="text-gray-800">Maior (usando if): </p>
+            <p id="resultadoMaiorMath" class="text-gray-800">Maior (usando Math.max): </p>
+            <p id="resultadoOrdem" class="text-gray-800">Ordem crescente: </p>
+        </div>
+    </div>
+
+    <script src="atvv.js" defer></script>
+</body>
+
+</html>
