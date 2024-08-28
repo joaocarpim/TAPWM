@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Janela</title>
+    <style>
+        .box {
+            width: 300px;
+            height: 300px;
+            text-align: center;
+            justify-content: center;
+            padding: 20px;
+            text-align: center;
+            border: 2px solid #FFFFFF;
+            position: relative; /* Para posicionar a imagem e o título adequadamente */
+            font-family: Arial, sans-serif;
+            color: #000000;
+        }
+
+        .box img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        .box h1 {
+            font-size: 20px;
+            margin: 10px 0;
+        }
+    </style>
+    <script>
+        function mDown(obj) {
+            obj.querySelector('h1').innerText = "Solte o clique para consertar a janela";
+            obj.querySelector('img').src = './img/quebrada.png'; 
+        }
+        
+        function mUp(obj) {
+            obj.querySelector('h1').innerText = "Janela consertada";
+            obj.querySelector('img').src = './img/fechada.png'; 
+        }
+        
+        function mMove(obj) {
+            obj.querySelector('h1').innerText = "Quebrar com clique";
+            obj.querySelector('img').src = './img/fechada.png'; 
+        }
+        
+        function mOut(obj) {
+            obj.querySelector('h1').innerText = "Janela Fechada";
+            obj.querySelector('img').src = './img/fechada.png'; 
+        }
+    </script>
+</head>
+<body>
+    <div 
+        class="box"
+        onmousedown="mDown(this)" 
+        onmouseup="mUp(this)" 
+        onmousemove="mMove(this)" 
+        onmouseout="mOut(this)">
+        <img src="./img/aberta.png" alt="Janela" /> 
+        <h1>Janela aberta</h1>
+    </div>
+</body>
+</html>
