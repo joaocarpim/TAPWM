@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Transformação de Texto</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js"></script>
+        
+    </head>
+    <body align="center">
+        <h1>Transformação de Texto</h1>
+
+        <label for="textInput">Digite algo:</label>
+        <input type="text" id="textInput" oninput="transformText()">
+        <br><br>
+        <input type="checkbox" id="uppercaseCheckbox" onclick="transformText()"> Transformar em Maiúsculas
+        <br>
+        <input type="checkbox" id="lowercaseCheckbox" onclick="transformText()"> Transformar em Minúsculas
+    </body>
+</html>
