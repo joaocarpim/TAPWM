@@ -1,0 +1,70 @@
+
+
+C:\Users>cd ..
+
+C:\>md Pwebnode15
+
+C:\>cd Pwebnode15
+
+C:\Pwebnode15>md Exercicios
+
+C:\Pwebnode15>cd Exercicos
+O sistema não pode encontrar o caminho especificado.
+
+C:\Pwebnode15>cd Exercicios
+
+C:\Pwebnode15\Exercicios>code .
+
+C:\Pwebnode15\Exercicios>node -v
+v17.9.1
+
+C:\Pwebnode15\Exercicios>node primeiro.js
+Primeiro exemplo
+
+C:\Pwebnode15\Exercicios>node segundoS.js
+1
+2
+3
+
+C:\Pwebnode15\Exercicios>node segundoA.js
+1
+3
+2
+
+C:\Pwebnode15\Exercicios>node terceiro.js 1 2 3 4 5 6 7 8 9 10 11
+soma=66
+
+C:\Pwebnode15\Exercicios>1 2 3 4 5 6 7 8 9 10 11
+'1' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Pwebnode15\Exercicios>node terceiro.js 1 2 3 4 5 6 7 8 9 10 11
+soma= 66
+
+C:\Pwebnode15\Exercicios>node terceiro.js 1 2 3 4 5 6 7 8 9 10 11
+Soma = 66
+
+C:\Pwebnode15\Exercicios>node quartoS.js
+Salvador 
+Paraty 
+Maragogi 
+Xangri-lá
+Blumenau 
+
+
+C:\Pwebnode15\Exercicios>npm install prompt-sync
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+
+added 3 packages, and audited 4 packages in 894ms
+
+found 0 vulnerabilities
+
+C:\Pwebnode15\Exercicios>node callback1.js
+Digite seu nome: Joao
+Oi Joao
+
+C:\Pwebnode15\Exercicios>node callback1.js
+Digite seu nome: Joao
+Oi Joao!
+
+C:\Pwebnode15\Exercicios>
