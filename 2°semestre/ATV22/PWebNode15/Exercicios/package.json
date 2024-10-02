@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "name": "tapwm",
+  "description": "Bem-vindo ao repositório de entrega de pequenos projetos acadêmicos em JavaScript e C#! Este repositório foi criado para armazenar e compartilhar diversos projetos desenvolvidos durante o curso.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "joao",
+  "license": "ISC"
+}
