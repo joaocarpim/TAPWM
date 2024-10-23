@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "consign": "^0.1.6",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "site_fatec",
+  "version": "1.0.0",
+  "description": "Site da Fatec Sorocaba",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas F.A. Rocha",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
