@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "msnodesqlv8": "^4.2.1",
+    "mssql": "^11.0.1"
+  }
+}

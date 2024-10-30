@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8"/>
+    <title>Edição de Professor</title>
+</head>
+<body>
+
+<h1>Editar Professor</h1>
+<p>ID: <%= profs[0].ID_PROFESSOR %></p>
+<p>NOME: <%= profs[0].NOME_PROFESSOR %></p>
+<p>EMAIL: <%= profs[0].EMAIL_PROFESSOR %></p>
+
+<form action="/professor/editar" method="post">
+    <input type="hidden" id="id_professor" name="id_professor" value="<%= profs[0].ID_PROFESSOR %>" />
+    <label>Nome</label>
+    <input type="text" id="nome" name="nome_professor" placeholder="Nome do Professor" />
+    <br/>
+    <br/>
+    <label>E-mail</label>
+    <input type="email" id="email" name="email_professor" placeholder="E-mail do Professor" />
+
+    <br/>
+    <br/>
+
+    <input type="submit" value="Enviar" />
+</form>
+</body>
+</html>
